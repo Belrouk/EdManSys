@@ -1,3 +1,2 @@
 # EdManSys-api
-Education Management System - API  module
-This is the layer that will communicate to the code, from the UI
+Education Management System - Core  module This is the layer that holds the database. Will only talk to the API layer. 

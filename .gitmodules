@@ -1,0 +1,11 @@
+[submodule "EdManSys-Core"]
+	path = EdManSys-Core
+	url = https://github.com/Belrouk/EdManSys-Core.git
+
+[submodule "EdManSys-api"]
+	path = EdManSys-api
+	url = https://github.com/Belrouk/EdManSys-api.git
+	
+[submodule "EdManSys-UI"]
+path = EdManSys-UI
+url = https://github.com/Belrouk/EdManSys-UI.git
